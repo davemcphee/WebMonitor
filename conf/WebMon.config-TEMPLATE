@@ -1,6 +1,8 @@
 [WebMon]
-fromaddr = email@email.com
-username = john
-password = xXxsecretxXx
-toaddr = email@email.com
+fromaddr | email@email.com
+username | john
+password | xXxsecretxXx
+toaddr | email@email.com
 
+[URLs]
+http://www.cheese.org | eb3c3f6f926241fe0553ea4a8845fbd5
